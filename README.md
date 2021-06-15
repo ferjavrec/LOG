@@ -15,9 +15,10 @@ DMR, DSTAR, P25, NXDN, YSF Log Monitoring and DMR STatus Monitoring
 
 
 상세한 내용 아래 사이트 참고하세요
-https://ds5qdr-dv.tistory.com/200
+https://ds5qdr-dv.tistory.com/230
 
-![image](https://user-images.githubusercontent.com/64110724/120122305-f14c2100-c1e2-11eb-88bb-25c038cc76fd.png)
+![image](https://user-images.githubusercontent.com/64110724/122065174-b249dc80-ce2c-11eb-8931-9038827a06cc.png)
+
 
 
 감사합니다
