@@ -1,7 +1,14 @@
 # LOG
 DMR, DSTAR, P25, NXDN, YSF Log Monitoring and DMR STatus Monitoring
 
-2021.04.04 : 
+2021.06.17 : V1.52 Released
+- New version alert added
+
+2021.06.15 : V1.50 Released
+- Full GUI version
+- Last Heard elapsed time added
+
+2021.04.04 : V1.00 Released
 - Five Mode Log Disp V1.0 by DS5QDR (C) 2021 
 - DMR Status Monitoring V1.5 by VK2CYO Chanyeol Yoo (C) 2021
 
