@@ -1,5 +1,5 @@
 # LOG
-DMR, DSTAR, P25, NXDN, YSF Log Monitoring and DMR STatus Monitoring
+Five Mode DMR, DSTAR, NXDN, P25 and YSF Log Status and DMR TG Last Heard Monitoring
 
 2021.06.17 : V1.52 Released
 - New version alert added
