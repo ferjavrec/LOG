@@ -24,8 +24,7 @@ How to install
 For more information click below link
 https://ds5qdr-dv.tistory.com/230
 
-![image](https://user-images.githubusercontent.com/64110724/122065174-b249dc80-ce2c-11eb-8931-9038827a06cc.png)
-
+![image](https://user-images.githubusercontent.com/64110724/123551517-22514e80-d7ad-11eb-85c5-67f449cf1382.png)
 
 
 감사합니다
